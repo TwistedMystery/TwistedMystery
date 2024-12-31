@@ -6,11 +6,12 @@ Welcome to my GitHub profile! I am a mechanical engineer with a passion for inno
 
 ## 🚀 About Me
 
-- 🎓 Engineering graduate with experience in **civil** and **mechanical** engineering.
+- 🎓 Engineering student pursuing **mechanical engineering** with a specialization in **design engineering** and interests in robotics.
 - 💡 President of the **Student Council** at KLU, leading innovative and impactful initiatives.
 - 🛠️ Passionate about robotics, CAD/CAM tools, and 3D printing.
-- 🌱 Currently exploring optimization techniques and structural analysis.
+- 🌱 Currently exploring robotics operating system (ROS) and machine learning.
 - 🌍 Advocate for practical, hands-on learning and fostering innovation through clubs like **Innovators Insight**.
+
 
 ---
 
