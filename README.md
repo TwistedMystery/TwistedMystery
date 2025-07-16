@@ -1,74 +1,70 @@
 # Hi, I'm Aman Kodimela! 👋
 
-Welcome to my GitHub profile! I am a mechanical engineer with a passion for innovation, robotics, and optimization. I enjoy working on projects that challenge me to think critically and contribute to meaningful solutions.
+Welcome to my GitHub profile! I’m a mechanical engineering graduate with a deep interest in **robotics, design optimization, and hands-on innovation**. I enjoy working on interdisciplinary projects that push the boundaries of what’s possible in automation and engineering design.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Engineering student pursuing **mechanical engineering** with a specialization in **design engineering** and interests in robotics.
-- 💡 President of the **Student Council** at KLU, leading innovative and impactful initiatives.
-- 🛠️ Passionate about robotics, CAD/CAM tools, and 3D printing.
-- 🌱 Currently exploring robotics operating system (ROS) and machine learning.
-- 🌍 Advocate for practical, hands-on learning and fostering innovation through clubs like **Innovators Insight**.
-
+- 🎓 Recently graduated with a degree in **Mechanical Engineering** with a specialization in **Design Engineering** from KLEF.
+- 💡 Former President of the **Student Council** at KLU, where I led impactful technical and community-focused initiatives.
+- 🛠️ Passionate about robotics, CAD/CAM tools, 3D printing, and real-world prototyping.
+- 🌱 Currently focused on mastering the **Robot Operating System (ROS)** and exploring **machine learning** applications in engineering.
+- 🌍 Strong advocate for experiential learning and collaborative innovation through platforms like **Innovators Insight**.
 
 ---
 
 ## 🛠️ Projects
 
 ### 1. **Soft End Effector Development**
-   - Currently working on integrating rapid programming with an ABB IRB 1600 robot to develop a soft end effector.
-   - This project is a collaborative effort between KLU and GMU.
+- Developing a soft robotic end effector in collaboration with **KLU and George Mason University (GMU)**.
+- Integrating rapid programming techniques with an **ABB IRB 1600** industrial robot.
 
 ### 2. **Thesis: Optimization of 3D-Printed Parts**
-   - Investigated the impact of **wall line count** and **infill density** on compressive strength.
-   - Used **SIMSCALE analysis** to simulate and optimize designs for improved structural performance.
+- Studied the influence of **infill density** and **wall line count** on structural strength.
+- Used **SIMSCALE** for simulation and multi-objective optimization to enhance design performance.
 
 ### 3. **3D-Printed Prosthetic Arm**
-   - Designed and fabricated a prosthetic arm using PLA, a biodegradable plastic, as an alternative to silicon.
-   - Focused on creating a cost-effective solution for improved accessibility and sustainability.
+- Designed a low-cost, biodegradable **PLA-based prosthetic** as a sustainable alternative to silicon arms.
+- Aimed at improving accessibility in prosthetics through frugal innovation.
 
 ### 4. **Pick and Place Robot**
-   - Created a basic version of a pick and place robot to learn about inverse kinematics and integration with the Robotics Operating System (ROS).
+- Built a prototype robot and explored **inverse kinematics** and ROS integration.
 
-### 5. **Design and Fabrication of Pipe Cleaning Robot**
-   - Aimed to develop an efficient pipe-cleaning solution using automation.
-   - Involved in the design phase and transitioning into fabrication.
+### 5. **Pipe Cleaning Robot**
+- Designed and fabricated a semi-automated robot to clean industrial pipelines efficiently.
 
 ### 6. **Self-Cleaning Toilet System**
-   - Designed and developed a self-cleaning toilet system to enhance hygiene and reduce manual cleaning effort.
+- Created a working prototype for an automatic toilet cleaning mechanism to promote hygiene and reduce manual effort.
 
-### 7. **Survey on Camera-Operated Robots**
-   - Conducted a comprehensive study on how camera-operational robots are revolutionizing the movie industry.
-   - Focused on advanced stabilization, automation, and creative possibilities enabled by robotics.
+### 7. **Survey on Camera-Operated Robots in Cinema**
+- Investigated how robotics is revolutionizing filmmaking through stabilized, camera-integrated robotic arms.
 
 ---
 
 ## ✨ Highlights
 
-- **Soft End Effector Project:** Collaborating with KLU and GMU to develop an innovative soft end effector, integrating rapid programming and working with an ABB IRB 1600 robot.
-- **Learning ROS:** Currently mastering Robotics Operating System (ROS) for SCARA robot integration.
-- **Hands-On Innovation:** Practical experience in robotics, automation, and CAD tools to solve real-world challenges.
+- 🤝 Collaborative Research: Worked with **GMU** on robotic soft actuators.
+- 🤖 Learning ROS: Focusing on **SCARA robot integration** and simulation using ROS2.
+- 🔬 Design + Innovation: Blending theory and practice across domains like automation, control systems, and CAD.
 
 ---
 
 ## 🔧 Skills
 
-- CAD Tools: **AutoCAD**, **Fusion 360**, **SolidWorks**
-- Analysis: **Ansys Workbench**, **MATLAB**,**SIMSCALE**
-- Robotics: Automation and control systems using MATLAB Robotics Toolkit and ROS
-- 3D Printing: Prototyping and material optimization
-- Leadership: Project management and team coordination
+- **CAD Tools:** AutoCAD, Fusion 360, SolidWorks  
+- **Simulation & Analysis:** ANSYS Workbench, MATLAB, SIMSCALE  
+- **Robotics & Control:** ROS, MATLAB Robotics Toolbox  
+- **Prototyping:** 3D Printing, Rapid Prototyping  
+- **Leadership & Communication:** Team coordination, project planning, public speaking  
 
 ---
 
 ## 🌐 Let's Connect
 
-- 🌐 LinkedIn: [Aman Kodimela](https://www.linkedin.com/in/aman-kodimela)
-- 📫 Email: [your-email@example.com](mailto:your-email@example.com)
-
+- 🌐 [LinkedIn – Aman Kodimela](https://www.linkedin.com/in/aman-kodimela-728675226/))  
+- 📫 Email: [amankodimela@yahoo.com](amankodimela@yahoo.com)  
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my projects and connect with me for collaborations or discussions. Let's innovate together! 🚀
+Thank you for visiting my GitHub! Feel free to explore my repositories or reach out if you’re interested in collaborating on robotics, design, or automation projects. Let’s build something great together! 🚀
